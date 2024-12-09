@@ -30,4 +30,7 @@ Controller\
 Tratamento de Exceções
 
 Exemplo de uso:
+
+acessando a documentação da api pelo swagger:
+ http://localhost:8080/doc
 ...
